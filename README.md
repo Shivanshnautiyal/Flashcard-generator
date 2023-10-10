@@ -36,6 +36,9 @@ In this App we will be able to make easy to form Flashcard with picture upload a
     npm i react-router-dom
 
 # Getting Started with Create React App
+  
+    npm init react-app .
+   this will install react directly in file without doing npm create-react-app "file name". 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 #
