@@ -2,20 +2,26 @@
 In this App we will be able to make easy to form Flashcard with picture upload and Share function now no need to write everything down . 
 
  It conatin 
+ 
  TailwindCss.
  Redux ,Redux Toolkit.
+ React-router_dom.
+ Formik Forms.
  
 
  # Now let's start with all dependency downloads.
 
 #1.Tailwind Css
+ 
  install tailwind using  
   npm install -D tailwindcss postcss autoprefixer
     npx tailwindcss init
 
 #2. Formik Forms: it is used to make easy to use form without stress.
+ 
+ 
  npm install formik --save
-   Complementary packages in Formik:
+    #Complementary packages in Formik:
       npm install yup --save
 
 
