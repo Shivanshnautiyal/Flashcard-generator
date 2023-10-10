@@ -19,13 +19,13 @@ In this App we will be able to make easy to form Flashcard with picture upload a
 
 #2. Formik Forms: it is used to make easy to use form without stress.
  
- 
- npm install formik --save
-    #Complementary packages in Formik:
+     npm install formik --save
+    
+#3Complementary packages in Formik:
       npm install yup --save
 
 
-#3. Redux/Redux @toolkit:
+#4. Redux/Redux @toolkit:
      npm install redux
 
 #4 React_Router_Dom:
