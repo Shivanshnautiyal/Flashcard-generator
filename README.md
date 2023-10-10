@@ -22,13 +22,16 @@ In this App we will be able to make easy to form Flashcard with picture upload a
      npm install formik --save
     
 #3Complementary packages in Formik:
+      
       npm install yup --save
 
 
 #4. Redux/Redux @toolkit:
+     
      npm install redux
 
 #4 React_Router_Dom:
+    
     npm i react-router-dom
 
 # Getting Started with Create React App
