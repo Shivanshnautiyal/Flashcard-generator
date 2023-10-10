@@ -1,4 +1,5 @@
-##FlASHCARD_GENERATOR:
+#FLASHCARD_GENERATOR:
+
 In this App we will be able to make easy to form Flashcard with picture upload and Share function now no need to write everything down . 
 
  It contains extra dependencies to make you're coding experience less teary.
