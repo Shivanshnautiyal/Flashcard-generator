@@ -11,10 +11,10 @@ In this App we will be able to make easy to form Flashcard with picture upload a
 
  # Now let's start with all dependency downloads.
 
-#1.Tailwind Css
+#1.Tailwind Css.
  
- install tailwind using  
-  npm install -D tailwindcss postcss autoprefixer
+  
+    npm install -D tailwindcss postcss autoprefixer
     npx tailwindcss init
 
 #2. Formik Forms: it is used to make easy to use form without stress.
